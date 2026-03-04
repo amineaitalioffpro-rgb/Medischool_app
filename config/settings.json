@@ -1,0 +1,7 @@
+{
+    "theme": "sombre",
+    "animations": true,
+    "permissions": {
+        "dossier_medical": true
+    }
+}
